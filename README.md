@@ -1,5 +1,5 @@
 # Literalmente Eu:
-2/3 - Informática no Instituto Federal de Rondônia<br>Novato em Programação<br>C#
+2/3 - Informática Instituto Federal de Rondônia<br>Novato em Programação<br>C#
 
 
 ## 🌐 Redes Sociais:
