@@ -1,4 +1,4 @@
-# Literalmente Eu:
+# Literally me:
 Learning: C#
 Currently: IFRO - Technical in Information Technology
 
