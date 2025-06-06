@@ -1,6 +1,6 @@
 # Literalmente Eu:
-2/3 Informática - Instituto Federal de Rondônia<br>Novato em Programação<br>C#
-
+Learning: C#
+Currently: IFRO - Technical in Information Technology
 
 ## 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.com/channels/419671040252444682) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/joaoggo_/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/teleportarggo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Joaoggo) 
